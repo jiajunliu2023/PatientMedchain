@@ -1,4 +1,4 @@
-<img width="1194" alt="Screenshot 2024-09-09 at 1 55 33 PM" src="https://github.com/user-attachments/assets/64f560af-0e68-4139-9012-b76d5fb1144e"># PatientMedchain: A secure patient-centered EHR (Electronic Health Record) decentralized application using blockchain
+# PatientMedchain: A secure patient-centered EHR (Electronic Health Record) decentralized application using blockchain
 
 ## Introduction
 This project aims to provide an application to enable the patient to have control over access to their health records. The patient can grant and revoke doctors' access to their health records. Then, doctors with granted access can add health records for patients and patients can view their health records.
@@ -42,5 +42,5 @@ Go to [Ganache website](https://archive.trufflesuite.com/ganache/) to download G
 Connect the MetaMask to localhost:3000
 Click on "Import account"
 Select an address from ganache and copy its private key to import the account to MetaMask.
-![Ganache](2024-09-09 at 1.55.33 PM.png)
+<img width="1194" alt="Screenshot 2024-09-09 at 1 55 33 PM" src="https://github.com/user-attachments/assets/64f560af-0e68-4139-9012-b76d5fb1144e">
 
